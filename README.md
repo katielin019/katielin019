@@ -1,4 +1,4 @@
-Katie Lin is a designer, programmer, and lifelong fan of stop-motion animation. They are strongly in favor of the Oxford comma.
+### Katie Lin is a designer, programmer, and lifelong fan of stop-motion animation. They are strongly in favor of the Oxford comma.
 
 ```
     ."'=-,     ,.,.,_
@@ -17,4 +17,4 @@ Katie Lin is a designer, programmer, and lifelong fan of stop-motion animation. 
        jgs  /#|#\  /#|#\
             `"`"`  `"`"`
 ```
-(Shaun the Sheep, by Joan G. Stark)
+> <em>an ascii art rendering of Shaun the Sheep, from the universe of Wallace and Gromit. artist: Joan G. Stark</em>
